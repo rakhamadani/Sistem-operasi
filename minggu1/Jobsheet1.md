@@ -97,3 +97,4 @@ Ubuntu → Menggunakan sistem izin akses (permission) seperti chmod dan sudo unt
 7. Dokumentasikan output dari setiap command
 
 ### Jawaban Latihan 1.4
+1. <img width="500" height="250" alt="Screenshot 2026-02-25 010226" src="https://github.com/user-attachments/assets/d966f578-cda4-4d38-bb9b-8924f7bb9a2f" />
