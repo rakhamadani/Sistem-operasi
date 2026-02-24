@@ -85,4 +85,15 @@ Ubuntu → Menggunakan sistem izin akses (permission) seperti chmod dan sudo unt
 6. Dokumentasikan proses instalasi dengan screenshot key step
 
 ### Jawaban Latihan 1.3
-<img width="1088" height="683" alt="Ubuntu" src="https://github.com/user-attachments/assets/333618ba-bb9b-4362-aaa7-30ea502c70d3" />
+<img width="1000" height="650" alt="Ubuntu" src="https://github.com/user-attachments/assets/333618ba-bb9b-4362-aaa7-30ea502c70d3" />
+
+### Latihan 1.4 
+1. Update package list: sudo apt update
+2. Upgrade packages: sudo apt upgrade
+3. Install neofetch: sudo apt install neofetch
+4. Jalankan neofetch dan screenshot hasilnya
+5. Check disk usage dengan df -h
+6. Check memory dengan free -h
+7. Dokumentasikan output dari setiap command
+
+### Jawaban Latihan 1.4
