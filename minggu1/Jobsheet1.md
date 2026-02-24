@@ -98,4 +98,6 @@ Ubuntu → Menggunakan sistem izin akses (permission) seperti chmod dan sudo unt
 
 ### Jawaban Latihan 1.4
 1.
- <img width="350" height="250" alt="Screenshot 2026-02-25 010226" src="https://github.com/user-attachments/assets/d966f578-cda4-4d38-bb9b-8924f7bb9a2f" />
+ <img width="300" height="250" alt="Screenshot 2026-02-25 010226" src="https://github.com/user-attachments/assets/d966f578-cda4-4d38-bb9b-8924f7bb9a2f" />
+2. 
+<img width="300" height="250" alt="Screenshot 2026-02-25 010255" src="https://github.com/user-attachments/assets/8e1d3f33-18b0-4d47-9b3a-2e2589a04db8" />
