@@ -24,9 +24,9 @@ Temukan 1 perangkat PCI (misal NIC) dan tuliskan: Vendor:Device ID (angka
 heksadesimal), nama driver/modul kernel, dan deskripsi singkat fungsinya
 
 ### Jawaban Latihan 2.2
-PCI : Intel Corporation 82540EM Gigabit Ethernet Controller (rev 02)
-Vendor:Device ID : 8086:100e
-modul kernel : 1000e
+1. PCI : Intel Corporation 82540EM Gigabit Ethernet Controller (rev 02)
+2. Vendor:Device ID : 8086:100e
+3. modul kernel : 1000e
 
 - Fugsi PCI : jalur komunikasi hardware ke motherboard
 - Fungsi Vendor:Device ID : kode unik untuk mengenali perangkat keras
