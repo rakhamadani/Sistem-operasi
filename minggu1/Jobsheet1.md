@@ -107,9 +107,10 @@ Ubuntu → Menggunakan sistem izin akses (permission) seperti chmod dan sudo unt
 <img width="400" height="350" alt="Screenshot 2026-02-25 010539" src="https://github.com/user-attachments/assets/d8a4268f-b5d5-4319-aa01-340972cd2285" />
 
 5. 
-<img width="300" height="200" alt="Screenshot 2026-02-25 012607" src="https://github.com/user-attachments/assets/62067dc8-cc97-4135-aa7d-45b8573791e7" />
+<img width="300" height="250" alt="Screenshot 2026-02-25 012607" src="https://github.com/user-attachments/assets/24863e78-8a13-4793-abe2-6c678f7b3c00" />
 
 6. 
-<img width="300" height="250" alt="Screenshot 2026-02-25 010631" src="https://github.com/user-attachments/assets/24a30faf-c0e3-4a3d-a98c-f9c625abb880" />
+<img width="300" height="250" alt="Screenshot 2026-02-25 013002" src="https://github.com/user-attachments/assets/83a7dc4c-878b-497e-bba8-55e577d78071" />
+
 
 
