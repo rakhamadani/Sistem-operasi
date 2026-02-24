@@ -85,4 +85,4 @@ Ubuntu → Menggunakan sistem izin akses (permission) seperti chmod dan sudo unt
 6. Dokumentasikan proses instalasi dengan screenshot key step
 
 ### Jawaban Latihan 1.3
-https://github.com/rakhamadani/Sistem-operasi/blob/4cac8bab3c283a64801186ff9d4b2de7038ab8d8/minggu1/Ubuntu.png
+<img width="1088" height="683" alt="Ubuntu" src="https://github.com/user-attachments/assets/333618ba-bb9b-4362-aaa7-30ea502c70d3" />
