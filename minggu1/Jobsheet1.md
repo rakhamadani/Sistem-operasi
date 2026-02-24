@@ -6,9 +6,9 @@ Kelas : TI-1H
 
 ## 1.10.1 Latihan Konseptual
 
-
-### 1.1 Jelaskan 5 fungsi utama sistem operasi dengan contoh komkret dari minimal 2 OS berbeda ( Widndows, macOS, atau Linux)
-### 1.2 Kapan sebaiknya menggunakan Windows vs Linux vs macOS? Analisis
+### Pertanyaan
+1. Jelaskan 5 fungsi utama sistem operasi dengan contoh komkret dari minimal 2 OS berbeda ( Widndows, macOS, atau Linux)
+2. Kapan sebaiknya menggunakan Windows vs Linux vs macOS? Analisis
 berdasarkan use case: gaming, development, server, creative work, dan enterprise.
 
 ### Jawaban 
@@ -76,4 +76,13 @@ Ubuntu → Menggunakan sistem izin akses (permission) seperti chmod dan sudo unt
 
 ## 1.10.2 Latihan Praktikal
 
-### 1.4
+### Latihan 1.3
+1. Download Ubuntu Server ISO dari website resmi
+2. Create VM baru di VirtualBox (RAM: 2GB, Disk: 25GB)
+3. Install dengan automatic partitioning (guided)
+4. Buat user account dengan password yang kuat
+5. Reboot dan login ke sistem
+6. Dokumentasikan proses instalasi dengan screenshot key step
+
+### Jawaban Latihan 1.3
+![alt text](<Screenshot 2026-02-25 010029.png>)
