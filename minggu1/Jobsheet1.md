@@ -102,3 +102,7 @@ Ubuntu → Menggunakan sistem izin akses (permission) seperti chmod dan sudo unt
  
 2. 
 <img width="300" height="250" alt="Screenshot 2026-02-25 010255" src="https://github.com/user-attachments/assets/8e1d3f33-18b0-4d47-9b3a-2e2589a04db8" />
+
+4.
+<img width="300" height="250" alt="Screenshot 2026-02-25 010539" src="https://github.com/user-attachments/assets/d8a4268f-b5d5-4319-aa01-340972cd2285" />
+
