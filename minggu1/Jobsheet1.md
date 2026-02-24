@@ -6,13 +6,13 @@ Kelas : TI-1H
 
 ## 1.10.1 Latihan Konseptual
 
-### Pertanyaan 
-1. Jelaskan 5 fungsi utama sistem operasi dengan contoh komkret dari minimal 2 OS berbeda ( Widndows, macOS, atau Linux)
-2. Kapan sebaiknya menggunakan Windows vs Linux vs macOS? Analisis
+
+### 1.1 Jelaskan 5 fungsi utama sistem operasi dengan contoh komkret dari minimal 2 OS berbeda ( Widndows, macOS, atau Linux)
+### 1.2 Kapan sebaiknya menggunakan Windows vs Linux vs macOS? Analisis
 berdasarkan use case: gaming, development, server, creative work, dan enterprise.
 
 ### Jawaban 
-1. 1) Manajemen Proses
+1. - Manajemen Proses
 
 Fungsi:
 Mengatur jalannya program yang sedang berjalan (process), termasuk menjalankan, menghentikan, dan mengatur prioritasnya.
@@ -23,7 +23,7 @@ Microsoft Windows → Menggunakan Task Manager untuk melihat dan mengakhiri pros
 
 Ubuntu (Linux) → Menggunakan perintah top, htop, atau kill di Terminal untuk memantau dan menghentikan proses.
 
-2) Manajemen Memori
+- Manajemen Memori
 
 Fungsi:
 Mengatur penggunaan RAM agar setiap program mendapat alokasi memori yang cukup tanpa saling mengganggu.
@@ -34,7 +34,7 @@ Microsoft Windows → Menggunakan Virtual Memory (paging file) ketika RAM hampir
 
 Ubuntu → Menggunakan sistem swap memory untuk membantu RAM saat kapasitas hampir habis.
 
-3) Manajemen Sistem File
+- Manajemen Sistem File
 
 Fungsi:
 Mengatur penyimpanan data dalam bentuk file dan folder.
@@ -45,7 +45,7 @@ Microsoft Windows → Menggunakan sistem file NTFS dan mengelola file melalui Fi
 
 Ubuntu → Menggunakan sistem file seperti ext4 dan mengelola file melalui Files (Nautilus) atau Terminal.
 
-4) Manajemen Perangkat Keras (Device Management)
+- Manajemen Perangkat Keras (Device Management)
 
 Fungsi:
 Mengontrol dan menghubungkan perangkat keras seperti printer, keyboard, mouse, dan flashdisk melalui driver.
@@ -56,7 +56,7 @@ Microsoft Windows → Menginstal driver otomatis saat printer atau mouse baru di
 
 Ubuntu → Banyak driver sudah otomatis terpasang (plug and play), atau dapat ditambahkan melalui Software & Updates.
 
-5) Keamanan dan Hak Akses
+- Keamanan dan Hak Akses
 
 Fungsi:
 Mengatur keamanan sistem dan hak akses pengguna terhadap file atau program.
@@ -67,3 +67,13 @@ Microsoft Windows → Memiliki fitur User Account Control (UAC) untuk membatasi 
 
 Ubuntu → Menggunakan sistem izin akses (permission) seperti chmod dan sudo untuk membatasi akses administrator.
 
+2. - dalam gaming lebih baik menggunakan windows karena mayoritas game dibuat untuk windows, sedangkan pada macOS pilihan game sangat terbatas dan pada linux terdapat game yang tidak cocok untuk linux
+
+- dalam software development disarankan memakai linux karena open source dan gratis
+
+- dalam server creative work lebih baik menggunakan linux karena linux dikenal sangat handal dalam menangani beban kerja berat serta uptime yang panjang tanpa memerlukan reboot
+
+
+## 1.10.2 Latihan Praktikal
+
+### 1.4
