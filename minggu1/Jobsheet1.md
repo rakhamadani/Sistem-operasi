@@ -112,5 +112,40 @@ Ubuntu → Menggunakan sistem izin akses (permission) seperti chmod dan sudo unt
 6. 
 <img width="300" height="250" alt="Screenshot 2026-02-25 013002" src="https://github.com/user-attachments/assets/83a7dc4c-878b-497e-bba8-55e577d78071" />
 
+### Latihan 1.5
+1. Tampilkan informasi OS: cat /etc/os-release
+2. Tampilkan versi kernel: uname -r
+3. List partisi: lsblk
+4. Check network connectivity: ping -c 4 google.com
+5. Install dan jalankan htop untuk melihat resource usage
+6. Buat laporan singkat tentang konfigurasi sistem Anda
+
+### Jawaban Latihan 1.5
+- cat /etc/os-release, digunakan untuk menunjukan versi ubuntu yan gdugunakan
+- uname -r, digunakan untuk menunjukan versi kernela linux yang aktif
+- lasbl, digunakan untuk menampilkan informasi disk dan partisi yang terpasang
+- ping -c 4 google, digunakan untuk memeriksa koneksi internet
+- htop, digunakan untuk menampilkan penggunaan CPU, RAM, Swap, proses yang berjalan
+
+## Latihan Refleksi
+
+### Latihan 1.6
+1. Sistem operasi apa yang Anda gunakan sehari-hari? (Windows, macOS,
+Linux, atau lainnya)
+2. Berapa lama Anda menggunakan sistem operasi tersebut?
+3. Apa yang Anda sukai dari sistem operasi tersebut?
+4. Apa tantangan atau masalah yang pernah Anda hadapi?
+5. Apakah Anda pernah menggunakan sistem operasi lain? Bandingkan
+pengalaman Anda.
+6. Setelah mempelajari bab ini, apakah ada sistem operasi lain yang ingin
+Anda coba? Mengapa?
+
+### Jawaban Latihan 1.6
+1. Saya menggunakan sistem operasi windows
+2. Saya sudah menggunakan windows sejak saya menggunakan laptop ayah saya, dan laptop saya sendiri yang baru saya beli sekitar 6 bulan juga menggunakan windows
+3. Yang saya sukai dari windows yaitu terdapat banyak game yang bisa dimainkan di windows dan juga lebih optimal dibandingkan dengan sistem operasi yang lain
+4. Masalah yang pernah saya hadapi yaitu saat saya sedang memakai laptop untuk membuat tugas, laptop saya tiba tiba melakukan restart secara otomati yang membuat saya sangat terganggu oleh hal tersebut, lalu saya laptop saya juga pernah mengalami restart ulang saat saya sedang melaksanakan ujian
+5. Saya belum pernah menggunakan sistem operasi lain tetapi salah terdapat satu teman saya yang menggunakan linux, dan dari apa yang saya lihat, terkadang teman saya bingung untuk mendownload suatu aplikasi dengan versi linux 
+6. Saya belum berpikir untuk mencoba sistem operasi lain, tetapi saya sedikit penasaran untuk mencoba sistem operasi linux
 
 
