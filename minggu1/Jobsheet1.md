@@ -85,4 +85,3 @@ Ubuntu → Menggunakan sistem izin akses (permission) seperti chmod dan sudo unt
 6. Dokumentasikan proses instalasi dengan screenshot key step
 
 ### Jawaban Latihan 1.3
-![alt text](<Screenshot 2026-02-25 010029.png>)
