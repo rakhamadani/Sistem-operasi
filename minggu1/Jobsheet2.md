@@ -32,5 +32,11 @@ heksadesimal), nama driver/modul kernel, dan deskripsi singkat fungsinya
 - Fungsi Vendor:Device ID : kode unik untuk mengenali perangkat keras
 - Modul kernel : driver yang mengontrol perangkat agar bisa digunakan sistem
 
-## Praktikum 2.3
+## Praktikum 2.6
+
+### Latihan 2.3
+Dari output ls -l, jelaskan perbedaan penanda file untuk block device dan
+character device. (Hint: karakter pertama pada permission string)
+
+### Jawaban Latihan 2.3 
 
