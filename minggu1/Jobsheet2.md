@@ -39,4 +39,10 @@ Dari output ls -l, jelaskan perbedaan penanda file untuk block device dan
 character device. (Hint: karakter pertama pada permission string)
 
 ### Jawaban Latihan 2.3 
+Block device digunakan untuk perangkat yang mentransfer dat dalam bentuk blok/blok besar, sedangkan character device digunakan untuk perangkat yang mentransfer data karakter per karakter 
 
+## Praktikum 2.9
+
+### Latihan 2.4
+Gunakan grep untuk menampilkan hanya baris yang mengandung INFO atau
+WARN dari data.log. (Hint: gunakan grep -E dengan pola alternatif)
