@@ -46,3 +46,7 @@ Block device digunakan untuk perangkat yang mentransfer dat dalam bentuk blok/bl
 ### Latihan 2.4
 Gunakan grep untuk menampilkan hanya baris yang mengandung INFO atau
 WARN dari data.log. (Hint: gunakan grep -E dengan pola alternatif)
+
+### Jawaban
+<img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/2837ec6d-7a4c-4a8d-9853-822c44530615" />
+
