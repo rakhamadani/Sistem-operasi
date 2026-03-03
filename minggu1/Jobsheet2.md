@@ -50,6 +50,15 @@ WARN dari data.log. (Hint: gunakan grep -E dengan pola alternatif)
 ### Jawaban
 <img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/2837ec6d-7a4c-4a8d-9853-822c44530615" />
 
+## Praktikum 2.16
+
+### Latihan 2.5
+Pilih satu port yang listening dari output ss -tulpn(misal port 22), lalu tuliskan service/proses yang membukanya. Jelaskan kegunaan port tersebut secara singkat.
+
+### Jawaban
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/595126b6-f7ae-4da8-8def-b847f849f6d8" />
+
+
 ## Latihan 1.9
 
 ### Latihan 2.A
