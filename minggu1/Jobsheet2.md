@@ -63,6 +63,7 @@ Tentukan device root filesystem dengan findmnt /. Lalu cocokkan dengan lsblk -f 
 ### Latihan 2.C
 Buat file server.log berisi minimal 10 baris dengan variasi kata: INFO, WARN, ERROR. Gunakan grep untuk menampilkan hanya baris ERROR.
 <img width="211" height="171" alt="image" src="https://github.com/user-attachments/assets/dd6da037-1c54-457b-8e36-4264cbdf0acd" />
+
 <img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/c7efee73-e770-46dc-bd69-62d9cc1f3314" />
 
 
@@ -72,7 +73,7 @@ Gunakan sed untuk mengganti semua kata server menjadi node pada file latihan. Tu
 
 ### Latihan 2.E
 Gunakan df -h lalu awk untuk menampilkan filesystem yang penggunaan disk di atas 70%.
-<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/2822213a-e182-4f0f-ac29-bb3fcb09715c" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/2822213a-e182-4f0f-ac29-bb3fcb09715c" />
 
 ### Latihan 2.F
 Jalankan sleep 600 &. Temukan PID-nya dengan ps. Hentikan dengan SIGTERM. Jelaskan beda SIGTERM vs SIGKILL.
