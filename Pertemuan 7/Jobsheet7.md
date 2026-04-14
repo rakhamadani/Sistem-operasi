@@ -24,5 +24,11 @@ Minimal luaran:
 • output type untuk alias, fungsi, dan script,
 • file laporan toolkit-bash-report.txt.
 
-<img width="400" height="500" alt="Screenshot 2026-04-14 211343" src="https://github.com/user-attachments/assets/8482c14a-8ec4-43e9-ae29-70d5864cc18b" />
+<img width="901" height="731" alt="Screenshot 2026-04-14 211343" src="https://github.com/user-attachments/assets/ad0c20f8-028b-42e4-884c-aff81fe9a115" />
+<img width="536" height="137" alt="Screenshot 2026-04-14 211822" src="https://github.com/user-attachments/assets/ad0e5ae3-c073-49ef-ac7f-3e2db81e6471" />
+<img width="495" height="175" alt="Screenshot 2026-04-14 212617" src="https://github.com/user-attachments/assets/038f9ddf-5076-4a58-bc32-92348f891a97" />
+<img width="510" height="227" alt="Screenshot 2026-04-14 212954" src="https://github.com/user-attachments/assets/e42fd6db-c228-4a93-95a9-aaf441413a24" />
+<img width="636" height="30" alt="Screenshot 2026-04-14 213810" src="https://github.com/user-attachments/assets/81462f9f-aabd-4375-841f-81afac5545a2" />
+
+
 
